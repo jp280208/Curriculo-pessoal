@@ -13,7 +13,6 @@ git push -u origin master
 - 🔭 Atualmente estou estudando desenvolvimentos de sistemas 
 - 🌱 Atualmente estou aprendendo a trabalhar no GITHUB
 - 💬 Pergunte-me sobre jogos e futebol que vamos ter um longo papo...
-- 📫 se quiser entrar em contato : jc642153@gmail.com
 - ⚡ Curiosidade: gosto de ver series e filmes nas horas  vagas e fazer esportes..
 
  Abaixo está o melhor jogador do mundo 7
