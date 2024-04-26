@@ -7,6 +7,6 @@ git push -u origin master
 
 
 
-# meu perfol
+# meu perfil
 ## joão pedro 
 ### estudo desenvolvimento de sistemas 
