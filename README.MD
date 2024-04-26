@@ -8,8 +8,9 @@ git push -u origin master
 
 
 # meu perfil
-👋 Hello! me chamo joão pedro
- 🔭 Atualmente estou estudando desenvolvimentos de sistemas 
+-👋 Hello! me chamo joão pedro
+
+- 🔭 Atualmente estou estudando desenvolvimentos de sistemas 
 - 🌱 Atualmente estou aprendendo a trabalhar no GITHUB
 - 💬 Pergunte-me sobre jogos e futebol que vamos ter um longo papo...
 - 📫 se quiser entrar em contato : jc642153@gmail.com
