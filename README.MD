@@ -1,20 +1,11 @@
-Seja bem-vindo ao meu primeiro repositório!!
+*Seja bem-vindo ao meu perfil!!!*
 
 
 
-git commit -m "escrevi minha primeira linha do README"
-git push -u origin master
+-👋 Hello! Me chamo joão pedro  tenho 16 anos e estou cursando desenvolvimento de sistemas Senai (1 ano )!! 
 
-
-
-# meu perfil
--👋 Hello! me chamo joão pedro
-
-- 🔭 Atualmente estou estudando desenvolvimentos de sistemas 
-- 🌱 Atualmente estou aprendendo a trabalhar no GITHUB
-- 💬 Pergunte-me sobre jogos e futebol que vamos ter um longo papo...
-- ⚡ Curiosidade: gosto de ver series e filmes nas horas  vagas e fazer esportes..
-
- Abaixo está o melhor jogador do mundo 7
-
-  [alternative](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.juicysantos.com.br%2Fvida-013%2Fsantistas-por-ai%2Fo-superfa-de-cristiano-ronaldo%2F&psig=AOvVaw0VYhcSR0kxpO06RGO2vAgm&ust=1714233515285000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPilweuf4IUDFQAAAAAdAAAAABA)
+- 🔭 Sou formado em linguagem de progamação python, LGPD, Cabos de redes entre outros 
+- 🌱 Atualmente estou terminando meu curso e estou a procura de uma empresa...
+- 💬 Gosto bastante de passar momento livres fazendo coisas que eu gosto como treinar, jogar, escutar musica e cultivar aprendizados...
+- ⚡ Sou otimo em me comunicar, prestativo e pontual...
+- *SEMPRE CULTIVANDO MEMORIAS*
